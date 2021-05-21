@@ -1,0 +1,9 @@
+body {
+  background-color: turquoise;
+}
+header:hover {
+  color: tomato;
+}
+.logo:hover {
+  color: rgb(228, 2, 40);
+}
